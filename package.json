@@ -1,6 +1,6 @@
 {
-  "name": "@devtronz/image-resize-pdf",
-  "version": "0.1.0",
+  "name": "image-resize-pdf",
+  "version": "0.1.1",
   "description": "Advanced image resizer, compressor and images to PDF converter",
   "type": "module",
   "main": "index.js",

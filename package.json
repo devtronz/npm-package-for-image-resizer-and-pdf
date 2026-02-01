@@ -1,0 +1,20 @@
+{
+  "name": "@devtronz/image-resize-pdf",
+  "version": "0.1.0",
+  "description": "Advanced image resizer, compressor and images to PDF converter",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js"],
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  },
+  "keywords": [
+    "image-resize",
+    "image-compress",
+    "images-to-pdf",
+    "webp",
+    "browser"
+  ],
+  "author": "devtronz",
+  "license": "MIT"
+}
